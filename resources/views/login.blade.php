@@ -11,7 +11,7 @@
             <input type="email"  name="email" class="form-control" id="exampleInputEmail1" placeholder="Username">
         </div>
         <div class="form-group">
-            <label for="exampleInputPassword1">Password</label>
+            <label for="exampleInputPassword1">psw</label>
             <input type="password" name="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
         </div>
         <button type="submit" class="btn btn-default">Login</button>
